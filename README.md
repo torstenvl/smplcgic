@@ -24,8 +24,8 @@ Usage:
 
         printf("Content-type: text/html\n\n");
         printf("\
-     <!DOCTYPE html>\n\
-     <html>\n\
+    <!DOCTYPE html>\n\
+    <html>\n\
         <head><title>Hello, there</title></head>\n\
         <body>\n\
             <h1>Hello, %s!</h1>\n\
